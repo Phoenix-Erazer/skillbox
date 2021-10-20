@@ -1,2 +1,2 @@
-print (2+2)
-retertreterte
+print (2+2+5)
+retertreterteгг
